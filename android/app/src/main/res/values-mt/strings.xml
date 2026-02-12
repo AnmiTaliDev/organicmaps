@@ -95,7 +95,7 @@
     <!-- Error moving map files from one storage to another -->
     <string name="move_maps_error">Errur waqt it-tmexxija tal-fajls tal-mapep</string>
     <!-- Ask user to wait several minutes (some long process in modal dialog). -->
-    <string name="wait_several_minutes">Din tista tieħu diversi minuti. \nJekk jogħġbok stenna…</string>
+    <string name="wait_several_minutes">Din tista tieħu diversi minuti.\nJekk jogħġbok stenna…</string>
     <!-- Measurement units title in settings activity -->
     <string name="measurement_units">Unitajiet tal-kejl</string>
     <!-- Detailed description of Measurement Units settings button -->
@@ -841,4 +841,10 @@
     <string name="nav_auto">Auto fin-navigazzjoni</string>
     <!-- Setting option to sync the app's theme with the operating system's dark/light mode -->
     <string name="follow_system">Segwi s-sistema</string>
+
+    <!-- SECTION: gps strings -->
+    <!-- Login to OSM button text -->
+    <string name="login_osm_credentials">Login bil-password</string>
+    <!-- Login to OSM button text -->
+    <string name="login_osm_browser">Login billi tuża l-browser</string>
 </resources>

@@ -351,6 +351,7 @@
     <string name="type.cuisine.tea">Çaj</string>
     <string name="type.cuisine.thai">Tajlandeze</string>
     <string name="type.cuisine.turkish">Turke</string>
+    <string name="type.cuisine.uzbek">Uzbeke</string>
     <string name="type.cuisine.vegan">Vegane</string>
     <string name="type.cuisine.vegetarian">Vegjetariane</string>
     <string name="type.cuisine.vietnamese">Vietnameze</string>
@@ -835,6 +836,7 @@
     <string name="type.railway.crossing">Kryqëzim hekurudhor</string>
     <string name="type.railway.disused">Hekurudhë jashtë përdorimit</string>
     <string name="type.railway.disused.bridge">Urë hekurudhore jashtë përdorimit</string>
+    <string name="type.railway.disused.tunnel">Tunel hekurudhor jashtë përdorimit</string>
     <string name="type.railway.funicular">Funikular</string>
     <string name="type.railway.funicular.bridge">Urë funikulari</string>
     <string name="type.railway.funicular.tunnel">Tunel funikulari</string>
